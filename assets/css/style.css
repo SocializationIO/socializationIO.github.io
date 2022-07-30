@@ -912,3 +912,18 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+.to-form-btn{
+  font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 10px;
+    border: none;
+    color: #fff;
+    background: #fd680e;
+}
